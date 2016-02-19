@@ -1,21 +1,16 @@
 #!/usr/bin/env node
 
 var fs = require('fs');
-var Content = require('./content.js');
 
 var contents = require('./content.json');
-var contentItems = [];
-contents.forEach(function(contentData){
-  contentItems.push(new Content(contentData));
-});
 
 fs.readFile('base.html', 'utf8', function(err, base) {
   var contentContainer = '<div class="content-container">';
   var containerLocation = base.indexOf(contentContainer) + contentContainer.length;
 
   var renderedContent = '\n';
-  contentItems.forEach(function(content) {
-    renderedContent += content.render() + '\n';
+  contents.forEach(function(content) {
+    renderedContent += renderContent(content) + '\n';
   });
 
   var indexHTML = `${base.substring(0, containerLocation)}${renderedContent}${base.substring(containerLocation + 1)}`;
@@ -26,3 +21,16 @@ fs.readFile('base.html', 'utf8', function(err, base) {
     }
   });
 });
+
+function renderContent(content) {
+  var view = '<div class="content-item">';
+
+  view += `<a class="content-title" target="_blank" href="${content.link}">${content.title}</a>`;
+  view += ` — <span class="content-when">${content.when}</span>`;
+
+  view += `<div class="content-description">${content.description}</div>`;
+
+  view += '</div>';
+
+  return view;
+}
