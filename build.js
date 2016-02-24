@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var fs = require('fs');
+var beautify = require('js-beautify');
 
 var contents = require('./content.json');
 
@@ -14,6 +15,10 @@ fs.readFile('base.html', 'utf8', function(err, base) {
   });
 
   var indexHTML = `${base.substring(0, containerLocation)}${renderedContent}${base.substring(containerLocation + 1)}`;
+  indexHTML = beautify.html(indexHTML, {
+    indent_size: 2
+  });
+  indexHTML += '\n';
 
   fs.writeFile('index.html', indexHTML, 'utf8', function(err) {
     if (err) {
