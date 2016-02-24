@@ -27,7 +27,7 @@ a {
 }
   a:focus, a:hover {
     text-decoration: underline;
-    color: rgb(0, 102, 255);
+    color: rgb(66, 0, 255);
   }
 
 .intro {

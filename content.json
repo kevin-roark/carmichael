@@ -1,9 +1,15 @@
 [
   {
-    "title": "David Zwirnher Online",
-    "when": "October 2015",
-    "description": "Fall through a hole of every Instagram image ever tagged at David Zwirner's NYC Gallery",
-    "link": "http://www.davidzwirnher.com"
+    "title": "feud.online",
+    "when": "February 2016",
+    "description": "A series of continuous films about the family, spectacle, and endless repetition",
+    "link": "http://www.feud.online"
+  },
+  {
+    "title": "God's Website",
+    "when": "December 2015",
+    "description": "Embrace a realtime stream of God Talk on Twitter through Carmichael's eyes",
+    "link": "http://www.gods.website"
   },
   {
     "title": "Rain in a Room",
@@ -12,9 +18,9 @@
     "link": "http://www.rainonme.xyz"
   },
   {
-    "title": "God's Website",
-    "when": "December 2015",
-    "description": "Embrace a realtime stream of God Talk on Twitter through Carmichael's eyes",
-    "link": "http://www.gods.website"
+    "title": "David Zwirnher Online",
+    "when": "October 2015",
+    "description": "Fall through a hole of every Instagram image ever tagged at David Zwirner's NYC Gallery",
+    "link": "http://www.davidzwirnher.com"
   }
 ]
