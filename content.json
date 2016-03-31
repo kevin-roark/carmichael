@@ -1,5 +1,11 @@
 [
   {
+    "title": "Multiplex Cinema",
+    "when": "March 2016",
+    "description": "A collection of films that have been rescrambled to exercise and stretch the multitasking-oriented part of your mind, from A1A2A3B1B2B3C1C2C3 To A1B1C1A2B2C2A3B3C3: for us.",
+    "link": "http://www.carmichael.xyz/multiplex/"
+  },
+  {
     "title": "Chromatic Reduction",
     "when": "March 2016",
     "description": "A spectrum of films rendered as ColorStreams, where each frame is monochromatically reduced to its most relevant color.",
