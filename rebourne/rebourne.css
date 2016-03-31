@@ -71,7 +71,7 @@ a {
 
 @media (max-width: 600px) {
   .title {
-    margin-left: -100px;
+    margin-left: -50px;
     font-size: 32px;
   }
   .links li {
