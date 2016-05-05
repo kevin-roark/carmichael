@@ -17,6 +17,10 @@ div {
   max-width: 400px;
 }
 
+::selection {
+  background-color: rgb(255, 245, 0);
+}
+
 a {
   text-decoration: none;
   color: rgb(0, 18, 255);
