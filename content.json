@@ -1,92 +1,96 @@
-[
-  {
-    "title": "Vacation",
-    "when": "July 2016",
-    "description": "Carmichael's on vacation.",
-    "link": "https://vimeo.com/174797733"
-  },
-  {
-    "title": "MAX AND ROLL",
-    "when": "July 2016",
-    "description": "Carmichael's first album. Not just an album, a Visual Software Classic Rock MIDI Album incorporating videos of friend Max playing the piano. In 2D and 3D!",
-    "link": "http://max.carmichael.xyz/"
-  },
-  {
-    "title": "FACE TIME",
-    "when": "June 2016",
-    "description": "Facial Aspect Character Emulator with Timed Intuitive Muscular Expression. Live facial deformation / enhancement suite.",
-    "link": "http://www.f-a-c-e.press/"
-  },
-  {
-    "title": "Max Plays Mozart | Paganini's Caprice 5",
-    "when": "May 2016",
-    "description": "Max Plays Mozart is software that plays midi songs as a series of videos of our friend Max playing the piano. This is a song inspired by Cory Arcangel's similar guitar video.",
-    "link": "https://www.youtube.com/watch?v=rkKT5v8p4A8"
-  },
-  {
-    "title": "Second Round Square Solo",
-    "when": "May 2016",
-    "description": "A video permutation piece about language where 13 poems, ascending from in length from three to fifteen lines, are mechanically read in every possible permutated line-order.",
-    "link": "http://sol.carmichael.xyz/"
-  },
-  {
-    "title": "Chromatic Deduction",
-    "when": "April 2016",
-    "description": "Films detached from their natural temporal order and reconfigured into various color-sorted alt-temporal orders.",
-    "link": "http://www.colors.black/deduction/"
-  },
-  {
-    "title": "Multiplex Cinema",
-    "when": "March 2016",
-    "description": "A collection of films that have been rescrambled to exercise and stretch the multitasking-oriented part of your mind, from A1A2A3B1B2B3C1C2C3 To A1B1C1A2B2C2A3B3C3: for us.",
-    "link": "http://www.carmichael.xyz/multiplex/"
-  },
-  {
-    "title": "Chromatic Reduction",
-    "when": "March 2016",
-    "description": "A spectrum of films rendered as ColorStreams, where each frame is monochromatically reduced to its most relevant color.",
-    "link": "http://www.colors.black/reduction/"
-  },
-  {
-    "title": "fffight.site",
-    "when": "March 2016",
-    "description": "126 dynamically composed permutations of reconstructed action scenes from the Bourne series; the natural evolution of Bourne rebourne.",
-    "link": "http://www.fffight.site/"
-  },
-  {
-    "title": "Bourne rebourne",
-    "when": "March 2016",
-    "description": "A collection of films that rip apart action shots from the <em>Bourne</em> series and reconstruct them with Strength, Speed, and Vigor.",
-    "link": "http://www.carmichael.xyz/rebourne/"
-  },
-  {
-    "title": "Life in Review",
-    "when": "March 2016",
-    "description": "A stream of digital memories flashes before your physical eyes.",
-    "link": "http://www.lifeislife.xyz"
-  },
-  {
-    "title": "feud.online",
-    "when": "February 2016",
-    "description": "A series of continuous films about the family, spectacle, and endless repetition.",
-    "link": "http://www.feud.online"
-  },
-  {
-    "title": "God's Website",
-    "when": "December 2015",
-    "description": "Finally Helps us track what we say about God right now. Can it help us, the other way around, too?",
-    "link": "http://www.gods.website"
-  },
-  {
-    "title": "Rain in a Room",
-    "when": "November 2015",
-    "description": "Explore a digital interpretation of Random International's infamous rain room.",
-    "link": "http://www.rainonme.xyz"
-  },
-  {
-    "title": "David Zwirnher Online",
-    "when": "October 2015",
-    "description": "Fall through a hole of every Instagram image ever tagged at David Zwirner's NYC Gallery.",
-    "link": "http://www.davidzwirnher.com"
-  }
-]
+{
+  "featured": [
+    {
+      "title": "God's Website",
+      "when": "December 2015",
+      "description": "Finally Helps us track what we say about God right now. Can it help us, the other way around, too?",
+      "link": "http://www.gods.website"
+    },
+    {
+      "title": "Life in Review",
+      "when": "March 2016",
+      "description": "A stream of digital memories flashes before your physical eyes.",
+      "link": "http://www.lifeislife.xyz"
+    },
+    {
+      "title": "David Zwirnher Online",
+      "when": "October 2015",
+      "description": "Fall through a hole of every Instagram image ever tagged at David Zwirner's NYC Gallery.",
+      "link": "http://www.davidzwirnher.com"
+    },
+    {
+      "title": "Chromatic Deduction",
+      "when": "April 2016",
+      "description": "Films detached from their natural temporal order and reconfigured into various color-sorted alt-temporal orders.",
+      "link": "http://www.colors.black/deduction/"
+    },
+    {
+      "title": "Second Round Square Solo",
+      "when": "May 2016",
+      "description": "A video permutation piece about language where 13 poems, ascending from in length from three to fifteen lines, are mechanically read in every possible permutated line-order.",
+      "link": "http://sol.carmichael.xyz/"
+    }
+  ],
+  "other": [
+    {
+      "title": "Vacation",
+      "when": "July 2016",
+      "description": "Carmichael's on vacation.",
+      "link": "https://vimeo.com/174797733"
+    },
+    {
+      "title": "MAX AND ROLL",
+      "when": "July 2016",
+      "description": "Carmichael's first album. Not just an album, a Visual Software Classic Rock MIDI Album incorporating videos of friend Max playing the piano. In 2D and 3D!",
+      "link": "http://max.carmichael.xyz/"
+    },
+    {
+      "title": "FACE TIME",
+      "when": "June 2016",
+      "description": "Facial Aspect Character Emulator with Timed Intuitive Muscular Expression. Live facial deformation / enhancement suite.",
+      "link": "http://www.f-a-c-e.press/"
+    },
+    {
+      "title": "Max Plays Mozart | Paganini's Caprice 5",
+      "when": "May 2016",
+      "description": "Max Plays Mozart is software that plays midi songs as a series of videos of our friend Max playing the piano. This is a song inspired by Cory Arcangel's similar guitar video.",
+      "link": "https://www.youtube.com/watch?v=rkKT5v8p4A8"
+    },
+    {
+      "title": "Multiplex Cinema",
+      "when": "March 2016",
+      "description": "A collection of films that have been rescrambled to exercise and stretch the multitasking-oriented part of your mind, from A1A2A3B1B2B3C1C2C3 To A1B1C1A2B2C2A3B3C3: for us.",
+      "link": "http://www.carmichael.xyz/multiplex/"
+    },
+    {
+      "title": "Chromatic Reduction",
+      "when": "March 2016",
+      "description": "A spectrum of films rendered as ColorStreams, where each frame is monochromatically reduced to its most relevant color.",
+      "link": "http://www.colors.black/reduction/"
+    },
+    {
+      "title": "fffight.site",
+      "when": "March 2016",
+      "description": "126 dynamically composed permutations of reconstructed action scenes from the Bourne series; the natural evolution of Bourne rebourne.",
+      "link": "http://www.fffight.site/"
+    },
+    {
+      "title": "Bourne rebourne",
+      "when": "March 2016",
+      "description": "A collection of films that rip apart action shots from the <em>Bourne</em> series and reconstruct them with Strength, Speed, and Vigor.",
+      "link": "http://www.carmichael.xyz/rebourne/"
+    },
+    {
+      "title": "feud.online",
+      "when": "February 2016",
+      "description": "A series of continuous films about the family, spectacle, and endless repetition.",
+      "link": "http://www.feud.online"
+    },
+    {
+      "title": "Rain in a Room",
+      "when": "November 2015",
+      "description": "Explore a digital interpretation of Random International's infamous rain room.",
+      "link": "http://www.rainonme.xyz"
+    }
+  ]
+}
